@@ -31,7 +31,7 @@
    <div class="Header" id="Home">
       <nav class="navbar fixed-top">
          <div class="container">
-            <a class="navbar-brand text-$blue-700" href="#">TVRI NASIONAL</a>
+         <a class="navbar-brand text-$blue-700" href="#">NATURAL PLANNER</a>
             <div class="collapse_menu deactive">
                <i class="fa fa-bars" aria-hidden="true"></i>
                <i class="fa fa-times" aria-hidden="true"></i>
